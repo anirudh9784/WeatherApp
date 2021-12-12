@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce559b3a0a2531fedf0f7d7ec28d2d43",
+    "revision": "a665b2ca89198f07294f0bf068825557",
     "url": "/WeatherApp/index.html"
   },
   {
-    "revision": "42979e5fb02cdceff4c1",
-    "url": "/WeatherApp/static/css/main.0af3b52f.chunk.css"
+    "revision": "0c4c268f9610d842a009",
+    "url": "/WeatherApp/static/css/main.af3c1a8b.chunk.css"
   },
   {
     "revision": "16bee0f1faf6d292f754",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeatherApp/static/js/3.1ac1e04f.chunk.js"
   },
   {
-    "revision": "42979e5fb02cdceff4c1",
+    "revision": "0c4c268f9610d842a009",
     "url": "/WeatherApp/static/js/main.da25fcb4.chunk.js"
   },
   {
@@ -32,7 +32,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeatherApp/static/media/cold-bg.c97cb84b.jpeg"
   },
   {
+    "revision": "e4df05a9faab40223091ed326030c67f",
+    "url": "/WeatherApp/static/media/summerdesk.e4df05a9.jpg"
+  },
+  {
     "revision": "635ed87d2cc826fb213057ac40dfaff1",
     "url": "/WeatherApp/static/media/warm-bg.635ed87d.jpeg"
+  },
+  {
+    "revision": "b0df2e39b7821ba74b493596e8f6632f",
+    "url": "/WeatherApp/static/media/winterdesk.b0df2e39.jpeg"
   }
 ]);
